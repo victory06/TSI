@@ -1,0 +1,5 @@
+./ff -o ../P3/Ej1TerranDom.pddl -f ../P3/Ej1TerranProb.pddl -s 0
+./ff -o ../P3/Ej2TerranDom.pddl -f ../P3/Ej2TerranProb.pddl -s 0
+./ff -o ../P3/Ej3TerranDom.pddl -f ../P3/Ej3TerranProb.pddl -s 0
+./ff -o ../P3/Ej4TerranDom.pddl -f ../P3/Ej4TerranProb.pddl -s 0
+./ff -o ../P3/Ej5TerranDom.pddl -f ../P3/Ej5TerranProb.pddl -s 0
